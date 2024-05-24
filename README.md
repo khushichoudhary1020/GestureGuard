@@ -51,4 +51,4 @@
 
 Currently, deployment is handled by Github. Pushing code to `dev branch` will automatically trigger a deploy.
 
-[![Github Status](https://api.netlify.com/api/v1/badges/bd039447-bb78-4d60-bcbb-a9a30fbb51c4/deploy-status)](https://app.netlify.com/sites/dev-portfolio-venkivijay/deploys)
+[![Github] https://khushichoudhary1020.github.io/GestureGuard/
